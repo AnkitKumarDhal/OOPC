@@ -8,7 +8,7 @@ int area(int l, int b)
 
 float area(float r)
 {
-    return 3.14 * r;
+    return 3.14 * r * r;
 }
 
 float area(float b, float h)
