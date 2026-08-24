@@ -11,3 +11,13 @@
 3. WAP to determine if a number is even or odd using function
 4. WAP to find greatest among 3 numbers using functions
 5. WAP to find area of rectangle, circle, and triangle using the concept of function overload
+
+# Prac 3
+1. WAP to find the greatest number among 10 elements from the array.
+2. WAP to search a particular element from the array
+3. WAP to add two matrices
+4. WAP to find multiplication of two matrices
+5. WAP to
+    a. calculate length of the string
+    b. reverse a string
+    c. compare two strings
