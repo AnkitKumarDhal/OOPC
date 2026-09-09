@@ -21,3 +21,8 @@
     a. calculate length of the string
     b. reverse a string
     c. compare two strings
+
+# Prac 4
+1. WAP using class `item` in which 3 private data members `code` of int type, `price` float, `quantity` int type, 2 public member functions `get_values()` and `show()`. `get_values()` takes the input and `show()` shows the data.
+2. WAP to calculate simple interest using class
+3. WAP using class `item` in which private data members are `number` int type and `cost` float type. public member function `getdata()` will collect the value and `putdata()` will display the value
