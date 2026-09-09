@@ -19,8 +19,7 @@ class SI
 
     float show()
     {
-        float simple_interest = (principal * time * rate) / 100;
-        return simple_interest;
+        return (principal * time * rate) / 100;
     }
 };
 
