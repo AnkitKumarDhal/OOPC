@@ -33,3 +33,7 @@
 3. Copy Constructor
 4. Default and Parameterized both (constructor overloading)
 5. class `Employee`, exmployee name and id, get value from user, display 30 names and id, using array
+
+# Prac 6
+1. WAP to define a class `Sample` in which `a` and `b` are two private data members and a public member function `setvalue()` which will take values of a and b. Declare a friend function `mean()` which will find the mean of a and b.
+2. WAP to define two classes `XYZ` and `ABC`, each having a private data member `data` and a public member function `setvalue()` to assign a value to `data`. Declare a friend function `add()` that can access the private data members of both classes and display their sum.
