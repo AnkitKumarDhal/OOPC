@@ -5,7 +5,7 @@ int main()
 {
     int a[3][3], b[3][3], c[3][3];
 
-    cout << "Enter the elements of the first array";
+    cout << "Enter the elements of the first array: ";
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -47,7 +47,7 @@ int main()
     {
         for (int j = 0; j < 3; j++)
         {
-            cout << c[i][j];
+            cout << c[i][j] << " ";
         }
         cout << endl;
     }

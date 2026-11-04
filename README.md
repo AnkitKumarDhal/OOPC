@@ -45,3 +45,11 @@
 Class M: protected member m, member function (public) getm(int)
 Class N: Protected member n, public function getn(int)
 class P: inherited from M & N (publicly), display m*n, m, n
+
+# Prac 8
+1. define a class `Space` in which `x`, `y` and `z` are 3 private data members. Public member functions `get_data()` will get 3 variables, `display()` will display the values of x, y, z.
+a. do for unary -
+b. do for increment (++)
+c. do for increment (++) with friend function
+d. do for binary -
+
