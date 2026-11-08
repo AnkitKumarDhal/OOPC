@@ -47,9 +47,8 @@ Class N: Protected member n, public function getn(int)
 class P: inherited from M & N (publicly), display m*n, m, n
 
 # Prac 8
-1. define a class `Space` in which `x`, `y` and `z` are 3 private data members. Public member functions `get_data()` will get 3 variables, `display()` will display the values of x, y, z.
-a. do for unary -
-b. do for increment (++)
-c. do for increment (++) with friend function
-d. do for binary -
+1. Define a class Space in which x, y and z are 3 private data members. Public member functions get_data() will get 3 variables, display() will display the values of x, y, z. Overload the unary - operator.
+2. Define a class Space in which x, y and z are 3 private data members. Public member functions get_data() will get 3 variables, display() will display the values of x, y, z. Overload the unary ++ operator using a member function.
+3. Define a class Space in which x, y and z are 3 private data members. Public member functions get_data() will get 3 variables, display() will display the values of x, y, z. Overload the unary ++ operator using a friend function.
+4. Define a class Marks in which msem and esem are 2 data members. Use constructors to initialize the values and a member function display() to display them. Overload the binary - operator to subtract the marks of two students.
 
